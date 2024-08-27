@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 6a38dd67e513d989fb7aef6bb4be8c0c12df78d1 6347israfil@gmail.com <6347israfil@gmail.com> 1723707829 +0600	commit (initial): Set up a fresh Laravel app
+6a38dd67e513d989fb7aef6bb4be8c0c12df78d1 0000000000000000000000000000000000000000 6347israfil@gmail.com <6347israfil@gmail.com> 1723707829 +0600	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 6a38dd67e513d989fb7aef6bb4be8c0c12df78d1 6347israfil@gmail.com <6347israfil@gmail.com> 1723707829 +0600	Branch: renamed refs/heads/master to refs/heads/main
+6a38dd67e513d989fb7aef6bb4be8c0c12df78d1 d3e8836deb0a36899d8a1bfcbda050373ae49574 6347israfil@gmail.com <6347israfil@gmail.com> 1723707890 +0600	commit: Install Breeze
+d3e8836deb0a36899d8a1bfcbda050373ae49574 0000000000000000000000000000000000000000 6347israfil@gmail.com <6347israfil@gmail.com> 1724128623 +0600	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 d3e8836deb0a36899d8a1bfcbda050373ae49574 6347israfil@gmail.com <6347israfil@gmail.com> 1724128623 +0600	Branch: renamed refs/heads/main to refs/heads/master
+d3e8836deb0a36899d8a1bfcbda050373ae49574 878c4fe7fcca3ac1cc1199a57422e70feeb30fa4 6347israfil@gmail.com <6347israfil@gmail.com> 1724128710 +0600	commit: update
+878c4fe7fcca3ac1cc1199a57422e70feeb30fa4 f5a1204f7f9309f8158ab3d94ae42297e3c35e91 6347israfil@gmail.com <6347israfil@gmail.com> 1724147740 +0600	commit: update
+f5a1204f7f9309f8158ab3d94ae42297e3c35e91 4e931ea9679365e645bae5096ef64b917a4d5123 6347israfil@gmail.com <6347israfil@gmail.com> 1724219338 +0600	commit: update
+4e931ea9679365e645bae5096ef64b917a4d5123 6ee9da92ebdeef50476ce76584d8a9d979815e25 6347israfil@gmail.com <6347israfil@gmail.com> 1724231502 +0600	pull: Fast-forward
+6ee9da92ebdeef50476ce76584d8a9d979815e25 81550ac03772a10d250c045e2289a5673b9ee91b 6347israfil@gmail.com <6347israfil@gmail.com> 1724323874 +0600	commit: update
+81550ac03772a10d250c045e2289a5673b9ee91b 027a0690e7f761c6d3a7c48b39bebeac32d0b727 6347israfil@gmail.com <6347israfil@gmail.com> 1724563556 +0600	commit: update
+027a0690e7f761c6d3a7c48b39bebeac32d0b727 027a0690e7f761c6d3a7c48b39bebeac32d0b727 6347israfil@gmail.com <6347israfil@gmail.com> 1724563620 +0600	checkout: moving from master to develop
+027a0690e7f761c6d3a7c48b39bebeac32d0b727 027a0690e7f761c6d3a7c48b39bebeac32d0b727 6347israfil@gmail.com <6347israfil@gmail.com> 1724564170 +0600	checkout: moving from develop to pages
+027a0690e7f761c6d3a7c48b39bebeac32d0b727 2a5f8860ab66fd37e4a3a067faa80fea5336ea79 6347israfil@gmail.com <6347israfil@gmail.com> 1724564734 +0600	commit: Update
+2a5f8860ab66fd37e4a3a067faa80fea5336ea79 ec202aa74cfa2f87a200dd5f789d1508578fbf76 6347israfil@gmail.com <6347israfil@gmail.com> 1724565317 +0600	commit: update
+ec202aa74cfa2f87a200dd5f789d1508578fbf76 3ec4c623a95b9bf0416145f3bd209640b4e9dec3 6347israfil@gmail.com <6347israfil@gmail.com> 1724574209 +0600	commit: update
+3ec4c623a95b9bf0416145f3bd209640b4e9dec3 ab9a68412cdb82f4dbce01bad0fe09e897646b30 6347israfil@gmail.com <6347israfil@gmail.com> 1724653651 +0600	commit: update
+ab9a68412cdb82f4dbce01bad0fe09e897646b30 027a0690e7f761c6d3a7c48b39bebeac32d0b727 6347israfil@gmail.com <6347israfil@gmail.com> 1724653704 +0600	checkout: moving from pages to develop
+027a0690e7f761c6d3a7c48b39bebeac32d0b727 a3499915f5a055c2be2f5d5205152e6224a721c8 6347israfil@gmail.com <6347israfil@gmail.com> 1724653720 +0600	pull: Fast-forward
+a3499915f5a055c2be2f5d5205152e6224a721c8 ab9a68412cdb82f4dbce01bad0fe09e897646b30 6347israfil@gmail.com <6347israfil@gmail.com> 1724653738 +0600	checkout: moving from develop to pages
+ab9a68412cdb82f4dbce01bad0fe09e897646b30 7432b176176ce80ba898b9e7f245dd72ac7d7fab 6347israfil@gmail.com <6347israfil@gmail.com> 1724653898 +0600	pull origin --no-ff develop: Merge made by the 'ort' strategy.
+7432b176176ce80ba898b9e7f245dd72ac7d7fab d5a4cf33831998012221b8eec38b2b8fd1eb6c41 6347israfil@gmail.com <6347israfil@gmail.com> 1724748685 +0600	commit: update
+d5a4cf33831998012221b8eec38b2b8fd1eb6c41 19f3f3b64d7f2ce841ce8b1a2d903315f3817f3a 6347israfil@gmail.com <6347israfil@gmail.com> 1724752240 +0600	commit: update
+19f3f3b64d7f2ce841ce8b1a2d903315f3817f3a 70f9e3177b3019d021a3bede4390a9fd25cf5822 6347israfil@gmail.com <6347israfil@gmail.com> 1724752627 +0600	commit: update
+70f9e3177b3019d021a3bede4390a9fd25cf5822 0000000000000000000000000000000000000000 6347israfil@gmail.com <6347israfil@gmail.com> 1724757733 +0600	Branch: renamed refs/heads/pages to refs/heads/master
+0000000000000000000000000000000000000000 70f9e3177b3019d021a3bede4390a9fd25cf5822 6347israfil@gmail.com <6347israfil@gmail.com> 1724757733 +0600	Branch: renamed refs/heads/pages to refs/heads/master
+70f9e3177b3019d021a3bede4390a9fd25cf5822 f85970b009a135fb373aa02637ae27dccce9fd03 6347israfil@gmail.com <6347israfil@gmail.com> 1724757757 +0600	commit: update
